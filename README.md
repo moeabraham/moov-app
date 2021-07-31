@@ -1,4 +1,3 @@
-<img width="722" alt="Screen Shot 2021-07-31 at 12 03 40 PM" src="https://user-images.githubusercontent.com/60075091/127747236-83a535b0-b0dd-49af-b472-b005a67da74d.png">
 ## Moov App
 webssite Link : https://cfc-moov.herokuapp.com/
 
