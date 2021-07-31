@@ -18,7 +18,7 @@ A web app that provides the user the a less stressfull move out experience and a
 ## wireframes/ Screenshots
 ​
 This was the first concept index page
-![screenshot](http://url/to/SampleFloorplan.png)
+![screenshot](http://url/to/static_moov_app/SampleFloorplan.png)
 
 ​
 The beginnings of the card info page, tarot selection page, and a tarot calendar diary.
