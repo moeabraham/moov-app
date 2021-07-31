@@ -18,7 +18,7 @@ A web app that provides the user the a less stressfull move out experience and a
 ## wireframes/ Screenshots
 ​
 This was the first concept index page
-![wireframe]![Drag Racing](SampleFloorplan.png)
+![screenshot](http://url/to/SampleFloorplan.png)
 
 ​
 The beginnings of the card info page, tarot selection page, and a tarot calendar diary.
